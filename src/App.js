@@ -18,7 +18,7 @@ function App() {
     const [input, setInput] = useState("");
     const [messages, setMessages] = useState([
         {
-            text: "Hi, I am ChatGPT, a state-of-the-art language model developed by OpenAI. I'm designed to understand and generate human-like text based on the input I receive. You can ask me questions, have conversations, seek information, or even request assistance with various tasks. Just let me know how I can help you!",
+            text: "I am ChatGPT, a virtual assistant powered by advanced language models developed by OpenAI. Think of me as a computer-based conversation partner designed to assist you with a wide range of inquiries, provide information, and engage in friendly discussions. I don't have personal experiences or emotions, but I'm here to help answer questions, generate text, and assist you to the best of my abilities. Feel free to ask me anything, and I'll do my best to assist you!",
             isBot: true,
         }
     ]);
