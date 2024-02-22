@@ -14,7 +14,8 @@ The link to the website for this project: https://abdoukolleychatgpt.netlify.app
 1. Clone the repository: git clone https://github.com/abdoukolley/ChatGPT-Clone.git
 2. Navigate into the project directory: cd App.js
 3. Install the dependencies: npm install
-4. Start the application: npm start
+4. You must insert your own ChatGPT API key in openai.js
+5. Start the application: npm start
 
 ## Usage
 
