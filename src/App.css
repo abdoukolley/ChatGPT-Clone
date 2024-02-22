@@ -315,7 +315,7 @@ button, img {
   
 }
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 425px) {
   .main {
     margin: 6rem 0.5rem;
   }
@@ -347,13 +347,14 @@ button, img {
     margin-right: 1rem;
   }
   .inp {
-    width: 40rem;
+    width: 30rem;
   }
   .inp>input {
     width: calc(100% - 1.5rem);
   }
   .chatFooter>p {
     margin: 0.75rem 0;
+    text-align: center;
   }
   
 }
